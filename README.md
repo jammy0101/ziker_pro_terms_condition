@@ -38,7 +38,7 @@ We take reasonable measures to protect your data stored within the application.
 
 ### Children’s Privacy
 
-Zikr Pro does not knowingly collect personal data from children under the age of 13.
+Zikr Pro is designed for users of all ages. The app does not collect, store, or share any personal information from users, including children. All tasbih data and preferences are stored locally on the user’s device only.
 
 ---
 
